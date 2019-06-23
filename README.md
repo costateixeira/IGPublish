@@ -1,2 +1,2 @@
-# davinci-crd
-DaVinci Coverage Requirements Discovery Implementation Guide
+# Empty IG Publisher
+Files for publishing an Implementation Guide
